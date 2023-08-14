@@ -1,0 +1,26 @@
+_repo: Trapping-wild-animals-in-Malay-jungles_71400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mayer, Charles
+    gutenberg_agent_id: '56204'
+    url: http://www.gutenberg.org/2009/agents/56204
+description: ''
+gutenberg_issued: '2023-08-13'
+identifiers:
+  gutenberg: '71400'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924023392750
+pgterms:marc905: 20230802131758mayer
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aGarden City, N.Y. :$bGarden City Publishing Co., Inc., $c1920,
+  copyright 1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trapping wild animals in Malay jungles
+url: http://www.gutenberg.org/ebooks/71400
