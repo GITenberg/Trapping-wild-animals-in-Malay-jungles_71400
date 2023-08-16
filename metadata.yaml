@@ -1,11 +1,16 @@
 _repo: Trapping-wild-animals-in-Malay-jungles_71400
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71400-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Mayer, Charles
     gutenberg_agent_id: '56204'
     url: http://www.gutenberg.org/2009/agents/56204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71400#Trapping-wild-animals-in-Malay-jungles
 gutenberg_issued: '2023-08-13'
 identifiers:
   gutenberg: '71400'
